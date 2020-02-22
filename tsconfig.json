@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {  
+    "target": "es5",
+    "outDir": "./src/js/",
+    "module": "commonjs",                     
+    "strict": true,                           
+    "esModuleInterop": true,                  
+    "forceConsistentCasingInFileNames": true
+  }
+}
